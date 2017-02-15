@@ -60,6 +60,7 @@ public class StringDemo {
         System.out.println(greeting.toUpperCase());
         System.out.println(greeting); // greeting is not changed
 
+        // todo 다시 살펴볼것!
         // Unicode
         String javatm = "Java\u2122";
         System.out.println(javatm);
