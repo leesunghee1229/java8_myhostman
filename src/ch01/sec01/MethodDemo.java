@@ -15,5 +15,6 @@ public class MethodDemo {
 
         System.out.println(rnd.nextInt());
 
+        System.out.println("11");
     }
 }
